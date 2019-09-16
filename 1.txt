@@ -1,0 +1,14 @@
+class program
+{
+	static void Main(string[] args)
+	{
+		Console.Writeline("Hello");
+		
+		if a > 2
+		Console.WriteLine("GOOD");
+
+		Console.ReadLine();
+
+		for(i>2;)
+	} 
+}
